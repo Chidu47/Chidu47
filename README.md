@@ -2,7 +2,7 @@
 - 👀 I’m interested in React.js, Node.js, MongoDB, Javascript, Material UI, Antdesign, redux toolkit
 - 🌱 I’m currently learning Next.js, MySql
 - 💞️ I’m looking to collaborate on my skills
-- 📫 How to reach me chidanandakm99@gmail.com
+- 📫 Here is how u can reach me chidanandakm99@gmail.com
       Note : All my projects along with their link in mentioned in Repositories
              and also in my resume
 
