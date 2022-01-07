@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chidananda K M 
-- 👀 I’m interested in React.js, Node.js, MongoDB, Javascript, Material UI, Antdesign, redux toolkit
+- 👀 I’m interested in React.js, Node.js, MongoDB, Javascript, Material UI, Antdesign, redux toolkit, Next.js, Chakra UI
 - 🌱 I’m currently learning Next.js, MySql
 - 💞️ I’m looking to collaborate on my skills
 - 📫 Here is how u can reach me chidanandakm99@gmail.com
